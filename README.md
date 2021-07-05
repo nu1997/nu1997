@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **nu1997/nu1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-안하고 죽어도 좋은 일만 내일로 미뤄라. -파블로 피카소
+### 안하고 죽어도 좋은 일만 내일로 미뤄라. -파블로 피카소
 
 ❤️ Like: Art, Film, Music, Computer ...
 
