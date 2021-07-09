@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+``` 
+git commit --amend --no-edit --date "Mon 20 Aug 2018 20:19:19 KST"
+```
+
 -->
+
+
 
 
 
