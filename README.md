@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+안하고 죽어도 좋은 일만 내일로 미뤄라. -파블로 피카소
+
+❤️ Like: Art, Film, Music, Computer ...
+
+🌊☀️ Summer person ☀️
+
+Specialty in Languages✨
+
+Genie 🧞‍♀️ ! Turn me into a Developer🙏🏻
+
+
+
