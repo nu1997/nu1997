@@ -14,12 +14,13 @@
 </div>
 
 ### Analytics
-
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1997&layout=compact&title_color=904e95"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nu1997&layout=compact&title_color=904e95"/>
 </div>
-
+<div align="center">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nu1997&layout=compact&title_color=904e95"/>
+</div>
+  
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
