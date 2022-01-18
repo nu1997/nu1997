@@ -1,3 +1,4 @@
+<!--
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -9,12 +10,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 
+
 ### About Me
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nu1997&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
-</div>
-
 <div align="center">
   <h3>Genie 🧞‍♀️ ! Turn me into a Developer🙏🏻</h4>
   
@@ -24,12 +21,18 @@
     Specialty in Languages✨ 🇰🇷 🇺🇸 🇯🇵 🇫🇷 <br></p>
 </div>
 
-### Analytics
+-->
+
+<!-- ### Analytics -->
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nu1997&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
+</div>
+<!--
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1997&layout=compact&title_color=904e95"/>
 </div>
 <div align="center">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nu1997&layout=compact&title_color=904e95"/>
 </div>
-  
+-->
 
