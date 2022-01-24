@@ -26,10 +26,7 @@
 <!-- ### Analytics -->
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nu1997&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
-</div>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1997&layout=compact&title_color=904e95"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1997&title_color=904e95"/>
 </div>
 <!--
 <div align="center">
