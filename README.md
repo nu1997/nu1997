@@ -10,7 +10,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 
-
 ### About Me
 <div align="center">
   <h3>Genie 🧞‍♀️ ! Turn me into a Developer🙏🏻</h4>
@@ -20,7 +19,6 @@
   <p>🌊 ☀️  Summer person  ☀️<br>
     Specialty in Languages✨ 🇰🇷 🇺🇸 🇯🇵 🇫🇷 <br></p>
 </div>
-
 -->
 
 <!-- ### Analytics -->
@@ -33,5 +31,3 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nu1997&layout=compact&title_color=904e95"/>
 </div>
 -->
-
-
