@@ -9,4 +9,11 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+C          1 hr 9 mins     ██████████████░░░░░░░░░░░   56.27 %
+Markdown   51 mins         ██████████▒░░░░░░░░░░░░░░   41.34 %
+Python     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+```
+
 <!--END_SECTION:waka-->
