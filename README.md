@@ -13,10 +13,12 @@ C++        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-</div
+</div>
+
+<!-- NOT IN USE
 <br>
 <div align="center" display="flex">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1997&title_color=904e95"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nu1997&layout=compact&title_color=904e95"/>
 </div>
-
+-->
