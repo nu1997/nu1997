@@ -6,6 +6,7 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
+VSCode Stats in Last 7 Days
 ```text
 Python     12 hrs 46 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.34 %
 Markdown   27 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.40 %
